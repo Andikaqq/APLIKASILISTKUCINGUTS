@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="Anggora">Anggora</string>
+    <string name="Domestik">Domestik</string>
+    <string name="maininecoon">Mainecoon</string>
+    <string name="munchkin">Munchkin</string>
+    <string name="persia">Persia</string>
+    <string name="ragdoll">Ragdoll</string>
+    <string name="russianblue">Russianblue</string>
+    <string name="scottishflod">ScottishFlod</string>
+    <string name="siam">Siam</string>
+    <string name="sphynx">Spyhnx</string>
+    //desc char
+    <string name="desc_anggora">Ini Kucing anggorra.</string>
+    <string name="desc_domestik">Ini Kucing Domestik</string>
+    <string name="desc_maininecoon">Ini Kucing Mainecoon</string>
+    <string name="desc_munchkin">Ini Kucing Munchkin</string>
+    <string name="desc_persia">Ini Kucing Persia</string>
+    <string name="desc_ragdoll">Ini Kucing Ragdoll</string>
+    <string name="desc_russianblue">Ini Kucing Russian Blue</string>
+    <string name="desc_scottishflod">Ini Kucing Scottishflod</string>
+    <string name="desc_siam">Ini Kucing Siam</string>
+    <string name="desc_sphynx">Ini Kucing Sphynx</string>
+    //profile
+    <string name="dika">Andika Pratama</string>
+    <string name="desc_dika">NIM : 2010031806002  E-Mail : andikap5637@gmail.com</string>
+</resources>
+
